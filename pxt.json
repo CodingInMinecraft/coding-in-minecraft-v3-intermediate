@@ -7,6 +7,9 @@
         "builder": "*"
     },
     "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
         "Lesson2/2.1.1/2.1.1.md",
         "Lesson2/2.1.2/2.1.2.md",
         "Lesson2/2.1/2.1.md",
@@ -49,9 +52,6 @@
         "Lesson6/6.3.1/6.3.1.md",
         "Lesson6/6.3/6.3.md",
         "Lesson6/6/6.md",
-        "main.blocks",
-        "main.ts",
-        "README.md",
         "Lesson4/4.2.2/4.2.2.md"
     ],
     "testFiles": [
@@ -65,5 +65,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
