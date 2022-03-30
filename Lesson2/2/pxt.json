@@ -1,0 +1,17 @@
+{
+    "name": "Coding in Minecraft - Intermediate - Lesson 2 - Variables",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "Lesson2/2/2.md",
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
