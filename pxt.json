@@ -1,6 +1,6 @@
 {
     "name": "coding-in-minecraft-v3-intermediate",
-    "version": "0.2.3",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
