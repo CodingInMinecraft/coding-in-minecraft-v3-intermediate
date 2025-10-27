@@ -59,7 +59,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "2.1.23",
+        "target": "2.1.24",
         "targetId": "minecraft"
     },
     "supportedTargets": [
