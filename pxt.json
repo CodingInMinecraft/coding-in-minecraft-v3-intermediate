@@ -1,15 +1,11 @@
 {
     "name": "coding-in-minecraft-v3-intermediate",
-    "version": "1.2.14",
-    "description": "",
     "dependencies": {
-        "core": "*",
-        "builder": "*"
+        "core": "*"
     },
     "files": [
-        "README.md",
-        "main.blocks",
-        "main.ts",
+        ".vscode/settings.json",
+        ".vscode/tasks.json",
         "Lesson2/2.1.1/2.1.1.md",
         "Lesson2/2.1.2/2.1.2.md",
         "Lesson2/2.1/2.1.md",
@@ -37,6 +33,8 @@
         "Lesson4/4.1/4.1.md",
         "Lesson4/4.2.1/4.2.1.md",
         "Lesson4/4.2.1/4.2.1.old.md",
+        "Lesson4/4.2.2/4.2.2.md",
+        "Lesson4/4.2.2/4.2.2.old.md",
         "Lesson4/4.2/4.2.md",
         "Lesson4/4/4.md",
         "Lesson5/5.1.1/5.1.1.md",
@@ -55,13 +53,28 @@
         "Lesson6/6.3.1/6.3.1.md",
         "Lesson6/6.3/6.3.md",
         "Lesson6/6/6.md",
-        "Lesson4/4.2.2/4.2.2.md"
-        "Lesson4/4.2.2/4.2.2.old.md"
+        "README.md",
+        "lesson4/4.2.2/.vscode/extensions.json",
+        "lesson4/4.2.2/.vscode/settings.json",
+        "lesson4/4.2.2/README.md",
+        "lesson4/4.2.2/main.blocks",
+        "lesson4/4.2.2/main.ts",
+        "lesson4/4.2.2/pxt.json",
+        "lesson4/4.2.2/test.ts",
+        "lesson4/4.2.2/tsconfig.json",
+        "main.blocks",
+        "main.ts",
+        "test.ts",
+        "tree/master/.vscode/extensions.json",
+        "tree/master/.vscode/settings.json",
+        "tree/master/README.md",
+        "tree/master/main.blocks",
+        "tree/master/main.ts",
+        "tree/master/pxt.json",
+        "tree/master/test.ts",
+        "tree/master/tsconfig.json",
+        "tsconfig.json"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "public": true,
     "targetVersions": {
         "target": "2.1.24",
         "targetId": "minecraft"
