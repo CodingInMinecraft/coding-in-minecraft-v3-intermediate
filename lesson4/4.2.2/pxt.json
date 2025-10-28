@@ -1,0 +1,24 @@
+{
+    "name": "coding-in-minecraft-v3-intermediate-lesson4-422",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "coding-in-minecraft-v3-intermediate": "github:codinginminecraft/coding-in-minecraft-v3-intermediate"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.1.24",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
